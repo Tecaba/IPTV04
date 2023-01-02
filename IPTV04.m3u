@@ -1,3 +1,22 @@
+
+Tecaba
+/
+IPTV01
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+IPTV01/IPTV01.m3u
+@Tecaba
+Tecaba Update IPTV01.m3u
+ 1 contributor
+235 lines (235 sloc)  7.7 KB
 #EXTM3U
 #EXTINF:-1,TVCOSMOS
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1411886794.m3u8
@@ -31,6 +50,8 @@ http://45.5.119.202:54321/play/a04k/index.m3u8
 http://131.196.194.2:8000/play/a0h9/index.m3u8
 #EXTINF:-1,TUDN
 http://45.182.21.251:33334/play/a07y/index.m3u8
+#EXTINF:-1,TiagoSport
+http://181.175.41.170:8000/play/a0g4
 #EXTINF:-1,TUDN HD USA
 http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:-1,Liga SmartBank
@@ -219,3 +240,15 @@ http://190.83.116.229:9010/play/a094/index.m3u8
 http://190.83.116.229:9010/play/a081/index.m3u8
 #EXTINF:-1,KARAVANAURBANO
 http://45.160.12.253:8000/play/135
+#EXTINF:-1,MUSICA TOP
+http://191.98.171.198:4000/play/a05r/index.m3u8
+#EXTINF:-1,bestcablemusic
+https://ca2.inka.net.pe/bestcablemusic/index.m3u8
+#EXTINF:-1,bestcableCumbia
+https://ca2.inka.net.pe/mascumbiatvonline/index.m3u8
+#EXTINF:-1,CRISTOVISION
+http://190.242.41.219:8000/play/a01l/index.m3u8
+#EXTINF:-1,CONCIENCIATV
+http://170.81.145.1:4000/play/150
+#EXTINF:-1,La voz de Maria
+http://45.5.119.202:54321/play/a01q/index.m3u8
